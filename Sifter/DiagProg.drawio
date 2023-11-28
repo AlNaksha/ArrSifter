@@ -1,0 +1,65 @@
+<mxfile host="Electron" modified="2023-11-28T17:51:28.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="D8HxBSAPd5-z4O6P6ikC" version="22.1.2" type="device">
+  <diagram name="Страница 1" id="pv2W36bFjC1o42JSapMG">
+    <mxGraphModel dx="930" dy="1199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-P6mRwowKEXQZiQl9OTc-1" value="&lt;h1 style=&quot;font-size: 26px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;em style=&quot;box-sizing: border-box; color: rgb(44, 45, 48); font-family: Onest, Roboto, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial;&quot;&gt;Задача&lt;/em&gt;:&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Написать программу, которая из имеющегося массива строк формирует новый массив из строк, длина которых меньше, либо равна 3 символам. Первоначальный массив можно ввести с клавиатуры, либо задать на старте выполнения алгоритма. При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами.&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;a style=&quot;box-sizing: border-box; background-color: rgb(255, 255, 255); color: rgb(37, 133, 238); cursor: pointer; overflow-wrap: break-word; font-family: Onest, Roboto, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial; font-size: 15px;&quot; target=&quot;_blank&quot; href=&quot;https://gb.ru/lessons/383191/homework&quot;&gt;&lt;/a&gt;&lt;br style=&quot;box-sizing: border-box; color: rgb(44, 45, 48); font-family: Onest, Roboto, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;em style=&quot;box-sizing: border-box; color: rgb(44, 45, 48); font-family: Onest, Roboto, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;Примеры&lt;/em&gt;&lt;span style=&quot;color: rgb(44, 45, 48); font-family: Onest, Roboto, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;:&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; color: rgb(44, 45, 48); font-family: Onest, Roboto, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(44, 45, 48); font-family: Onest, Roboto, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;[“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; color: rgb(44, 45, 48); font-family: Onest, Roboto, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(44, 45, 48); font-family: Onest, Roboto, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;[“1234”, “1567”, “-2”, “computer science”] → [“-2”]&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; color: rgb(44, 45, 48); font-family: Onest, Roboto, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(44, 45, 48); font-family: Onest, Roboto, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;[“Russia”, “Denmark”, “Kazan”] → []&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=default;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="60" width="420" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="-P6mRwowKEXQZiQl9OTc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-P6mRwowKEXQZiQl9OTc-2" target="-P6mRwowKEXQZiQl9OTc-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-P6mRwowKEXQZiQl9OTc-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-P6mRwowKEXQZiQl9OTc-3" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="800" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-P6mRwowKEXQZiQl9OTc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-P6mRwowKEXQZiQl9OTc-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P6mRwowKEXQZiQl9OTc-9" value="По умолч." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-P6mRwowKEXQZiQl9OTc-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.0135" y="3" relative="1" as="geometry">
+            <mxPoint x="88" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P6mRwowKEXQZiQl9OTc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="-P6mRwowKEXQZiQl9OTc-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="260" />
+              <mxPoint x="360" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P6mRwowKEXQZiQl9OTc-11" value="-e" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-P6mRwowKEXQZiQl9OTc-10" vertex="1" connectable="0">
+          <mxGeometry x="0.2164" y="-1" relative="1" as="geometry">
+            <mxPoint x="-19" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P6mRwowKEXQZiQl9OTc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-P6mRwowKEXQZiQl9OTc-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P6mRwowKEXQZiQl9OTc-15" value="-l" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-P6mRwowKEXQZiQl9OTc-14" vertex="1" connectable="0">
+          <mxGeometry x="-0.6027" y="-1" relative="1" as="geometry">
+            <mxPoint x="-33" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-P6mRwowKEXQZiQl9OTc-4" value="Флаг?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-P6mRwowKEXQZiQl9OTc-6" value="&lt;h1&gt;Заметки&lt;/h1&gt;&lt;p&gt;1. Пусть программа имеет несколько флагов запуска:&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;1&lt;span style=&quot;background-color: initial;&quot;&gt;) -l - после запуска с этим флагом программа ждет на ввод строку и выводит на экран&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;2) (значение по усолчанию) - без флага выдает в консоль краткое описание и список комманд&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;3) -e - демонстрирует работу при помощи базового набора данных с выводом в консоль&lt;/p&gt;&lt;p&gt;2.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=default;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="420" width="420" height="450" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
